@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Building Blocks Tutor"
+  short_description: "用自适应 Building Blocks 方法系统学习 AI 产品技术"
+  default_prompt: "Use $ai-building-blocks-tutor to assess my current level and start the next suitable AI learning block."
